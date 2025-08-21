@@ -49,7 +49,7 @@ python khinsider_downloader.py <album_url>
 ### Example
 
 ```bash
-python khinsider_downloader.py "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts"
+python khinsider_downloader.py "https://downloads.khinsider.com/game-soundtracks/album/gex"
 ```
 
 The script will:

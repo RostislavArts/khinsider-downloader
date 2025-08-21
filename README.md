@@ -84,16 +84,6 @@ The script includes robust error handling:
 - Continues processing even if individual tracks fail
 - Provides detailed error messages
 
-## Respectful Usage
-
-This script is designed to be respectful to KHInsider's servers:
-- Includes proper User-Agent headers
-- Implements delays between requests
-- Uses reasonable timeout values
-- Includes retry limits
-
-Please use responsibly and consider supporting the artists and game developers whose music you download.
-
 ## Sample Output
 
 ```
